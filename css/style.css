@@ -713,9 +713,9 @@ input:-webkit-autofill {
 	display: block;
 }
 
-.about {
+/* .about {
 	padding-top: 90px;
-}
+} */
 
 .diag .about {
 	position: relative;
@@ -988,6 +988,14 @@ input:-webkit-autofill {
 }
 
 /*------------------------ 5 Blog ------------------------*/
+
+.space {
+    margin-bottom: 15px;
+}
+
+.padtop {
+    padding-top: 90px;
+}
 
 .blog-image img {
 	width: 100%;
